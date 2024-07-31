@@ -1,0 +1,14 @@
+one
+ (first step) 
+ github - vs code
+    git clone link
+    cd Trail
+
+vs code - github
+    git add filename (stage area)
+    git commmit -m "anything" (local git copy)
+    git push origin main (github)
+work folder copy -> staging area -> local git copy -> github
+
+another file created in github that move to the vscode
+   git pull
